@@ -38,8 +38,8 @@ class  Script(object):
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/myserver23)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [MY SERVER 👑](https://t.me/myserver23)
+║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Cuatom_forward_bot)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [MY SERVER 👑](tg://settings)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [MY SERVER](https://t.me/myserver23)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
