@@ -39,9 +39,9 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Cuatom_forward_bot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [MY SERVER 👑](tg://settings)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [MY SERVER](https://t.me/myserver23)
-║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [RAJPUT SERVER👑](tg://settings)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [RAJPUT SERVER](https://t.me/rajputservermusic)
+║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ SERVER
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
 ║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
